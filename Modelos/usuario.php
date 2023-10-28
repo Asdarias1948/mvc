@@ -19,5 +19,5 @@ Class Usuario{
 }
 
 public function __CONSTRUCT(){
-     $this-> pdo = bd::Conectar();
+    // $this-> pdo = bd::Conectar();
 }
