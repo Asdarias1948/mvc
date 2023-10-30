@@ -1,6 +1,7 @@
 <?php
 
  require_once "Modelos/db.php";
+ 
 if (!isset($_GET['c'])) {
     require_once "Controladores/Inicio.controlador.php";
     $controlador = new InicioControlador();

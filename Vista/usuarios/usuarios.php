@@ -97,6 +97,10 @@
                         <!--CIERRE DEL CONTENEDOR DE LA BARRA DE BUSQUEDA -->
             </div>
           </div>
+
+
+          <p><?= $this->modelo->Cantidad_U()->Cantidad ?></p>
+
         <!--FIN BOTON AGREGAR-->
         <!--TABLA--> <br><br><br>
         <div class="table-responsive">
