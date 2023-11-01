@@ -83,7 +83,7 @@
         <br><br>
         <div class="row justify-content-center align-content-center text-center">
            <div class="col-xs-12">
-               <h2> Cambio</h2>
+               <h2> Usurios </h2>
                              <!--CONTENEDOR DE LA BARRA DE BUSQUEDA -->
                              <!--CONTENEDOR DE LA BARRA DE BUSQUEDA -->
                         
@@ -99,7 +99,7 @@
           </div>
 
 
-          <p><?= $this->modelo->Cantidad_U()->Cantidad ?></p>
+          <p><?php $p = $this->modelo->Cantidad_U(); echo $p->Cantidad; ?></p>
 
         <!--FIN BOTON AGREGAR-->
         <!--TABLA--> <br><br><br>
