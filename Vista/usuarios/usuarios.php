@@ -83,7 +83,7 @@
         <br><br>
         <div class="row justify-content-center align-content-center text-center">
            <div class="col-xs-12">
-               <h2> Usuarios</h2>
+               <h2> Cambio</h2>
                              <!--CONTENEDOR DE LA BARRA DE BUSQUEDA -->
                              <!--CONTENEDOR DE LA BARRA DE BUSQUEDA -->
                         
